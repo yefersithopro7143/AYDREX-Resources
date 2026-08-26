@@ -1,1 +1,0 @@
-# AYDREX-Resources
