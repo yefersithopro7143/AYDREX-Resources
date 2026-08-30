@@ -1,1 +1,50 @@
-
+[
+  {
+    "date": "2026-08-29",
+    "icon": "📱",
+    "user": "alexis",
+    "action": "descargó",
+    "item": "Spotify Premium",
+    "email": "ale***@gmail.com"
+  },
+  {
+    "date": "2026-08-29",
+    "icon": "⚡",
+    "user": "yeferson",
+    "action": "adquirió el",
+    "item": "Plan Básico",
+    "email": "yef***@hotmail.com"
+  },
+  {
+    "date": "2026-08-27",
+    "icon": "👑",
+    "user": "matias",
+    "action": "adquirió el",
+    "item": "Plan Pro-Plus",
+    "email": "mat***@outlook.com"
+  },
+  {
+    "date": "2026-08-25",
+    "icon": "📱",
+    "user": "lucia",
+    "action": "descargó",
+    "item": "Canva Pro",
+    "email": "luc***@gmail.com"
+  },
+  {
+    "date": "2026-08-23",
+    "icon": "⭐",
+    "user": "carlos",
+    "action": "adquirió el",
+    "item": "Plan Regular",
+    "email": "car***@yahoo.com"
+  },
+  {
+    "date": "2026-08-06",
+    "icon": "📱",
+    "user": "sofia",
+    "action": "descargó",
+    "item": "Netflix 4K",
+    "email": "sof***@gmail.com"
+  }
+]
