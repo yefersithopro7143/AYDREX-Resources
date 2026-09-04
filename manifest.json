@@ -4,8 +4,8 @@
   "description": "Tu tienda de aplicaciones premium.",
   "start_url": "https://aydrex.blogspot.com",
   "display": "standalone",
-  "background_color": "#03050a",
-  "theme_color": "#d4af37",
+  "background_color": "#05080d",
+  "theme_color": "#00ffcc",
   "orientation": "portrait-primary",
   "icons": [
     {
