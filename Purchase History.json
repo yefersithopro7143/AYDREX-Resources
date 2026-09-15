@@ -1,34 +1,20 @@
 [
   {
-    "date": "2026-08-29",
-    "icon": "📱",
-    "user": "alexis",
-    "action": "descargó",
-    "item": "Spotify Premium",
-    "email": "ale***@gmail.com"
+    "date": "2026-09-15",
+    "user": "Carlos M.",
+    "action": "compró",
+    "item": "Free Fire 1080 + 108 Diamantes",
+    "email": "ca***@gmail.com",
+    "icon": "💎",
+    "universo": "recargas"
   },
   {
-    "date": "2026-08-29",
-    "icon": "⚡",
-    "user": "yeferson",
-    "action": "adquirió el",
-    "item": "Plan Básico",
-    "email": "yef***@hotmail.com"
-  },
-  {
-    "date": "2026-08-27",
-    "icon": "👑",
-    "user": "matias",
-    "action": "adquirió el",
-    "item": "Plan Pro-Plus",
-    "email": "mat***@outlook.com"
-  },
-  {
-    "date": "2026-08-25",
-    "icon": "📱",
-    "user": "lucia",
-    "action": "descargó",
-    "item": "Canva Pro",
-    "email": "luc***@gmail.com"
+    "date": "2026-09-15",
+    "user": "Kevin R.",
+    "action": "activó",
+    "item": "AYDREX VIP Pass",
+    "email": "ke***@hotmail.com",
+    "icon": "🚀",
+    "universo": "apps"
   }
 ]
