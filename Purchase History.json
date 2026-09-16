@@ -1,20 +1,83 @@
 [
   {
     "date": "2026-09-15",
+    "user": "Kevin R.",
+    "action": "adquirió",
+    "item": "Plan Pro-Plus",
+    "email": "ke***@hotmail.com",
+    "icon": "🚀",
+    "universo": "apps"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Luis F.",
+    "action": "adquirió",
+    "item": "Plan Regular",
+    "email": "lu***@gmail.com",
+    "icon": "⚡",
+    "universo": "apps"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Maria J.",
+    "action": "adquirió",
+    "item": "Plan Básico",
+    "email": "ma***@outlook.com",
+    "icon": "🛡️",
+    "universo": "apps"
+  },
+  {
+    "date": "2026-09-15",
     "user": "Carlos M.",
     "action": "compró",
-    "item": "Free Fire 1080 + 108 Diamantes",
+    "item": "1080 + 108 Diamantes",
     "email": "ca***@gmail.com",
     "icon": "💎",
     "universo": "recargas"
   },
   {
     "date": "2026-09-15",
-    "user": "Kevin R.",
-    "action": "activó",
-    "item": "AYDREX VIP Pass",
-    "email": "ke***@hotmail.com",
-    "icon": "🚀",
-    "universo": "apps"
+    "user": "Diego S.",
+    "action": "compró",
+    "item": "520 + 52 Diamantes",
+    "email": "di***@yahoo.com",
+    "icon": "💎",
+    "universo": "recargas"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Ana P.",
+    "action": "compró",
+    "item": "2180 + 218 Diamantes",
+    "email": "an***@gmail.com",
+    "icon": "💎",
+    "universo": "recargas"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Katherin A.",
+    "action": "solicitó",
+    "item": "Perfume Khamrah",
+    "email": "ka***@gmail.com",
+    "icon": "✨",
+    "universo": "perfumes"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Valeria T.",
+    "action": "solicitó",
+    "item": "Perfume Asad Lattafa",
+    "email": "va***@hotmail.com",
+    "icon": "✨",
+    "universo": "perfumes"
+  },
+  {
+    "date": "2026-09-15",
+    "user": "Jorge L.",
+    "action": "solicitó",
+    "item": "Perfume Club de Nuit",
+    "email": "jo***@outlook.com",
+    "icon": "✨",
+    "universo": "perfumes"
   }
 ]
